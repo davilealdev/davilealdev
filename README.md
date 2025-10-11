@@ -1,6 +1,6 @@
 
 <div style=" text-align:center;">
-  <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Hello!, I am Dave Lee🐸</h1>
+  <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Eae!, Eu Sou Davi Leal🐸</h1>
 </div>
 
 
@@ -31,7 +31,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=obsidian,electron,mint,ubuntu,debian,linux,github,git,notion,vscode,md,pycharm,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=obsidian,electron,github,git,notion,vscode,md)](https://skillicons.dev)
 </div>
 
 
