@@ -27,8 +27,6 @@
     
 </div>
 
-<h1 style="text-align:center; color:#121238;"> My Tools:</h1>
-
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=obsidian,electron,github,git,notion,vscode,md)](https://skillicons.dev)
