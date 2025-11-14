@@ -1,8 +1,8 @@
 
-<div style=" text-align:center;">
+<!-- <div style=" text-align:center;">
   <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Eae!, Eu Sou Davi Leal</h1>
 </div>
-
+ -->
 
  
  
