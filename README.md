@@ -14,12 +14,6 @@
 </div>
 
 
-<div align="center">
-  
-![Davi Github stats](https://github-readme-stats.vercel.app/api?username=davilealdev&show_icons=true&theme=radical)  
-
-</div>
-
 
 <div align="center">
     
