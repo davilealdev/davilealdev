@@ -3,13 +3,15 @@
 
 
 <div align="center">
-
  
 ### `@davilealdev`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Olá+Mundo!;Eu Sou Davi Leal;Apaixonado Por Computação;Futuro Engenheiro De Software" />
-
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Olá+Mundo!;Eu+Sou+Davi+Leal;Amante+da+Computação;Futúro+Desenvolvedor+de+Software;🐍+ヘビだ！" />
+</p>
 </div>
+
+
 
 
 
@@ -62,8 +64,8 @@ Aplicação web para organizar ideias com foco em simplicidade e produtividade.
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINK)
-[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEUEMAIL)
+
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davilealdev@gmail.com)
 
 </div>
 
