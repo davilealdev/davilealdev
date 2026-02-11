@@ -48,13 +48,7 @@ Aplicação web para organizar ideias com foco em simplicidade e produtividade.
 <div align="center">
 
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=davilealdev&theme=github-dark&hide_border=true"/>
-</div>
-
----
-
-## 🐍 ヘビだ！
-
-<div align="center">
+  
   <img src="https://raw.githubusercontent.com/davilealdev/davilealdev/output/github-contribution-grid-snake.svg" />
 </div>
 
@@ -73,6 +67,6 @@ Aplicação web para organizar ideias com foco em simplicidade e produtividade.
 
 <div align="center">
 
-⚡ *Disciplina constrói o que motivação abandona.*
+## 🐍 ヘビだ！
 
 </div>
